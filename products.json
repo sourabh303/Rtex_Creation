@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Designer Suit - Royal Blue Zardozi",
+      "category": "Designer Suits",
+      "description": "Premium designer suit in royal blue, hand-embroidered with traditional Zardozi work and finished with luxury resham detailing."
+    },
+    {
+      "id": 2,
+      "name": "Elegant Kurti - Gold Mandala Print",
+      "category": "Kurtis",
+      "description": "Golden yellow mandala-printed kurti in lightweight organic cotton, finished with a soft Peach feel."
+    },
+    {
+      "id": 3,
+      "name": "Handcrafted Outfit - Sequin Ember",
+      "category": "Handcrafted Outfits",
+      "description": "Artisan handcrafted formal set finished with sequin handwork and premium Aramid dyeing for unique sheen and texture."
+    },
+    {
+      "id": 4,
+      "name": "Digital Print Saree - Modern Lotus",
+      "category": "Digital Prints",
+      "description": "Fashion-forward monochrome saree with modern lotus design, digitally printed using sustainable pigment inks."
+    },
+    {
+      "id": 5,
+      "name": "Classic Kurti - Blue Florals",
+      "category": "Kurtis",
+      "description": "Classic daywear kurti decorated with blue floral motifs, digitally printed for vibrant colorfastness."
+    },
+    {
+      "id": 6,
+      "name": "Designer Saree - Gold Embroidery",
+      "category": "Designer Suits",
+      "description": "Luxurious saree with hand-embroidered gold borders, combining traditional craftsmanship with contemporary style."
+    },
+    {
+      "id": 7,
+      "name": "Handcrafted Lehenga - Emerald Dream",
+      "category": "Handcrafted Outfits",
+      "description": "Stunning emerald handcrafted lehenga with intricate embroidery and premium sequin finishing."
+    },
+    {
+      "id": 8,
+      "name": "Digital Print Kurti - Geometric Patterns",
+      "category": "Digital Prints",
+      "description": "Contemporary geometric-patterned kurti in vibrant colors, perfect for modern lifestyle."
+    }
+  ]
+}
